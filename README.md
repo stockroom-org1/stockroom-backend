@@ -1,4 +1,4 @@
-# Stockroom API
+# Stockroom API 
      
 A warehouse inventory management REST API built with Python 3.12 and FastAPI. Manages categories, products, and stock movements backed by PostgreSQL.
 
